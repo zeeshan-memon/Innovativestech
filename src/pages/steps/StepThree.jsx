@@ -40,7 +40,7 @@ const StepThree = () => {
         <Input.Password placeholder="Confirm your password" />
       </Form.Item>
       <Button type="primary" htmlType="submit">
-        Validate
+        Submit
       </Button>
     </Form>
   );
